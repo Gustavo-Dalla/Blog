@@ -11,3 +11,4 @@ Este é um blog simples criado com HTML e CSS para apresentar minhas experiênci
 ## IA utilizada
 
 Este projeto foi desenvolvido em ajuda da Maritaca IA (primeira inteligência artificial brasileira).
+- [Maritaca](https://www.maritaca.ai/)
